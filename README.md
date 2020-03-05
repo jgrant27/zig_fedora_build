@@ -1,6 +1,10 @@
 # Build Zig Lang on Fedora Linux
 
+# ![zig](img/zig.png) + ![fedora](img/fedora.png)
+
 Instructions for building the [Zig language](https://ziglang.org) on [Fedora](https://getfedora.org) Linux.
+
+
 
 
 Install all the pre-reqs for building Zig
